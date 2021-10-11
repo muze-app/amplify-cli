@@ -78,7 +78,6 @@
     ]
   },
   "devDependencies": {
-    "serverless-appsync-simulator": "github:muze-app/serverless-appsync-simulator",
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
     "@babel/plugin-proposal-numeric-separator": "^7.10.4",
