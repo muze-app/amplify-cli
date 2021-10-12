@@ -23,7 +23,6 @@
     "clean": "rimraf ./lib",
     "watch": "tsc -w",
     "start": "node ./lib/index.js",
-    "postinstall": "tsc --lib es2019",
     "test": "jest"
   },
   "dependencies": {
