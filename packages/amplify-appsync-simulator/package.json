@@ -64,7 +64,6 @@
     "@types/node": "^12.12.6",
     "@types/pino": "5.15.3",
     "@types/ws": "^7.4.4",
-    "amplify-graphiql-explorer": "https://gitpkg.now.sh/muze-app/amplify-cli/packages/amplify-graphiql-explorer?simulator-batchgetitem-operation"
   },
   "jest": {
     "testRunner": "jest-circus/runner",
