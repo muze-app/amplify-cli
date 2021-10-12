@@ -45,7 +45,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "moment-jdateformatparser": "^1.2.1",
-    "moment-timezone": "0.5.27",
+    "moment-timezone": "0.5.33",
     "mqtt-connection": "4.0.0",
     "nanoid": "2.1.10",
     "pino": "5.16.0",
